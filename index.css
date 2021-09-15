@@ -9,12 +9,8 @@
 	width: 100%;
 }
 #backg {
-	height: 50vh;
 	background-image: url(https://images.pexels.com/photos/3576683/pexels-photo-3576683.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
-	/*It stretches our bg image to cover the area of the element.*/
 	background-size: cover;
-	/*background-repeat: no-repeat; prevents your bg image to repeat.*/
 	background-repeat: no-repeat;
-	/*positions or moves your bg image to the center of the element.*/
 	background-position: center;
 }
